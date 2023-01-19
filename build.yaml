@@ -1,0 +1,3 @@
+include:
+  - board: adafruit_kb2040
+    shield: absolem
